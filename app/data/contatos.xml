@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+
+
+<data>
+ 
+<contato>
+    <id>1</id>
+    <nome>Spencer</nome>
+    <sobrenome>silva</sobrenome>
+    <endereco>rua das and</endereco>
+    <email>silva@mail.com</email>
+</contato>
+
+<contato>
+    <id>2</id>
+    <nome>abel</nome>
+    <sobrenome>souza</sobrenome>
+        <endereco>rua kras</endereco>
+	    <email>souza@mail.com</email>
+</contato>   
+</data>
